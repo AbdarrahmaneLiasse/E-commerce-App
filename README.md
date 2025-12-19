@@ -1,9 +1,9 @@
-🛒 <h2>E-Commerce Mobile Application</h2>
+<h2>🛒 E-Commerce Mobile Application</h2>
 A full-stack e-commerce mobile application built with Flutter, Spring Boot, and MySQL.
 This project demonstrates how to build a modern, secure, and scalable mobile commerce platform from scratch.
 
 
-🚀 <h3>Features</h3>
+<h3>🚀 Features</h3>
 
 👤 User Features
 
